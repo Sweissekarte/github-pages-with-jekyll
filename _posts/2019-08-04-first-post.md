@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "This is My First Post"
 date: 2019-08-04
 ---
